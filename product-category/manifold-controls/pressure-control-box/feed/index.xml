@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pressure control box Archives - PNEUMOTRONICS</title>
+	<atom:link href="/product-category/manifold-controls/pressure-control-box/feed/" rel="self" type="application/rss+xml" />
+	<link>/product-category/manifold-controls/pressure-control-box/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Mar 2024 12:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/Favicon-logo-150x150.png</url>
+	<title>Pressure control box Archives - PNEUMOTRONICS</title>
+	<link>/product-category/manifold-controls/pressure-control-box/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Model B: GCP-X (Air Path)</title>
+		<link>/product/model-b-gcp-x-air-path/</link>
+		
+		<dc:creator><![CDATA[alan.xu@nortekhealthcare.com]]></dc:creator>
+		<pubDate>Wed, 06 Mar 2024 12:53:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1967</guid>
+
+					<description><![CDATA[<p>The post <a href="/product/model-b-gcp-x-air-path/">Model B: GCP-X (Air Path)</a> appeared first on <a href="/">PNEUMOTRONICS</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/product/model-b-gcp-x-air-path/">Model B: GCP-X (Air Path)</a> appeared first on <a href="/">PNEUMOTRONICS</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Model A: GCP-L</title>
+		<link>/product/model-a-gcp-l/</link>
+		
+		<dc:creator><![CDATA[alan.xu@nortekhealthcare.com]]></dc:creator>
+		<pubDate>Wed, 06 Mar 2024 12:52:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1965</guid>
+
+					<description><![CDATA[<p>The post <a href="/product/model-a-gcp-l/">Model A: GCP-L</a> appeared first on <a href="/">PNEUMOTRONICS</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/product/model-a-gcp-l/">Model A: GCP-L</a> appeared first on <a href="/">PNEUMOTRONICS</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

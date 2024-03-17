@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Safety and Compliance Archives - PNEUMOTRONICS</title>
+	<atom:link href="/es/category/safety-and-compliance/feed/" rel="self" type="application/rss+xml" />
+	<link>/es/category/safety-and-compliance/</link>
+	<description></description>
+	<lastbuilddate>Fri, 01 Mar 2024 09:13:04 +0000</lastbuilddate>
+	<language>es</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/Favicon-logo-150x150.png</url>
+	<title>Safety and Compliance Archives - PNEUMOTRONICS</title>
+	<link>/es/category/safety-and-compliance/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Understanding PSA Oxygen Generators: A Comprehensive Guide</title>
+		<link>/es/understanding-psa-oxygen-generators-a-comprehensive-guide/</link>
+		
+		<dc:creator><![CDATA[alan.xu@nortekhealthcare.com]]></dc:creator>
+		<pubdate>Sun, 18 Feb 2024 10:45:58 +0000</pubdate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Innovations]]></category>
+		<category><![CDATA[Maintenance Tips]]></category>
+		<category><![CDATA[Safety and Compliance]]></category>
+		<guid ispermalink="false">/?p=922</guid>
+
+					<description><![CDATA[<p>What is a PSA Oxygen Generator? Pressure Swing Adsorption (PSA) oxygen generators use clean, compressed air as the raw material and high-quality zeolite molecular sieve as the adsorbent to produce oxygen. The process involves pressure adsorption and decompression desorption in the adsorber, where nitrogen is preferentially adsorbed by the zeolite molecular sieve due to its [&#8230;]</p>
+<p>The post <a href="/es/understanding-psa-oxygen-generators-a-comprehensive-guide/">Understanding PSA Oxygen Generators: A Comprehensive Guide</a> appeared first on <a href="/es">PNEUMOTRONICS</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2 class="wp-block-heading">What is a PSA Oxygen Generator?</h2>
+
+
+
+<p>Pressure Swing Adsorption (PSA) oxygen generators use clean, compressed air as the raw material and high-quality zeolite molecular sieve as the adsorbent to produce oxygen. The process involves pressure adsorption and decompression desorption in the adsorber, where nitrogen is preferentially adsorbed by the zeolite molecular sieve due to its faster diffusion rate, allowing oxygen to be enriched in the gas phase. The system typically features two adsorption towers that alternate between adsorption and regeneration, controlled by a PLC program controller, to produce oxygen with a purity of approximately 93%±3%.</p>
+
+
+
+<h2 class="wp-block-heading">Features and Technical Specifications</h2>
+
+
+
+<p><strong>Features:</strong></p>
+
+
+
+<ul>
+<li>Quick start-up: Provides qualified oxygen within 15-30 minutes.</li>
+
+
+
+<li>Fully automated operation: Requires no supervision.</li>
+
+
+
+<li>Efficient molecular sieve packing: Ensures a longer service life.</li>
+
+
+
+<li>Adjustable pressure, purity, and flow rate: Meets diverse customer needs.</li>
+
+
+
+<li>Low energy consumption: Ensures economical operation.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><strong>Technical Specifications:</strong></h3>
+
+
+
+<ul>
+<li>Oxygen volume: 1～300Nm³/hr</li>
+
+
+
+<li>Purity: 93%±3%</li>
+
+
+
+<li>Pressure: 0.01~0.6 Mpa (adjustable)</li>
+
+
+
+<li>Atmospheric dew point: -40°C~-70°C (adjustable)</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">How to Choose a PSA Oxygen Generator</h2>
+
+
+
+<p>When selecting a PSA oxygen generator, consider the following core parameters:</p>
+
+
+
+<ul>
+<li><strong>Flow rate (Nm³/h):</strong> Represents the amount of gas consumption required.</li>
+
+
+
+<li><strong>Oxygen purity:</strong> Indicates the proportion of oxygen in the produced gas.</li>
+
+
+
+<li><strong>Pressure:</strong> Refers to the outlet pressure of the equipment, typically 0.3-0.5MPa.</li>
+
+
+
+<li><strong>Dew point:</strong> Represents the water content in the gas; the lower the dew point, the less water present.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Maintenance Tips</h2>
+
+
+
+<p>Proper maintenance is crucial for the longevity and efficiency of the equipment:</p>
+
+
+
+<ul>
+<li>Ensure normal supply of power, water, air, and temperature conditions.</li>
+
+
+
+<li>Monitor the air volume, temperature, and pressure at the inlet of the cold dryer.</li>
+
+
+
+<li>Check the automatic drain valves daily to prevent clogging.</li>
+
+
+
+<li>Clean the heat sink of the cold dryer weekly to maintain effectiveness.</li>
+
+
+
+<li>Follow the User Manual for operation and maintenance, and regularly check the sensitivity of valves, the pressure range of the pressure regulating valve, the accuracy of the gas analyzer, and the compression of the adsorption tower.</li>
+</ul><p>The post <a href="/es/understanding-psa-oxygen-generators-a-comprehensive-guide/">Understanding PSA Oxygen Generators: A Comprehensive Guide</a> appeared first on <a href="/es">PNEUMOTRONICS</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Key Points of Medical Gas Engineering Operation and Management</title>
+		<link>/es/key-points-of-medical-gas-engineering-operation-and-management/</link>
+		
+		<dc:creator><![CDATA[alan.xu@nortekhealthcare.com]]></dc:creator>
+		<pubdate>Sun, 18 Feb 2024 10:42:01 +0000</pubdate>
+				<category><![CDATA[Case Studies]]></category>
+		<category><![CDATA[Industry Insights]]></category>
+		<category><![CDATA[Innovations]]></category>
+		<category><![CDATA[Maintenance Tips]]></category>
+		<category><![CDATA[Safety and Compliance]]></category>
+		<guid ispermalink="false">/?p=919</guid>
+
+					<description><![CDATA[<p>The application of medical gases in healthcare settings is expanding, driven by patient needs and advancements in medical technology. The safety, efficiency, and cost-effectiveness of medical gas engineering are becoming increasingly important. This article explores the key aspects of medical gas engineering, including oxygen supply diversification, vacuum suction, compressed air supply, and operational management. Oxygen [&#8230;]</p>
+<p>The post <a href="/es/key-points-of-medical-gas-engineering-operation-and-management/">Key Points of Medical Gas Engineering Operation and Management</a> appeared first on <a href="/es">PNEUMOTRONICS</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The application of medical gases in healthcare settings is expanding, driven by patient needs and advancements in medical technology. The safety, efficiency, and cost-effectiveness of medical gas engineering are becoming increasingly important. This article explores the key aspects of medical gas engineering, including oxygen supply diversification, vacuum suction, compressed air supply, and operational management.</p>
+
+
+
+<h2 class="wp-block-heading">Oxygen Supply Diversification</h2>
+
+
+
+<p>Oxygen is a critical medical gas. Hospitals typically obtain oxygen through various methods, including electronic means, pressure swing adsorption, low-temperature air separation, chemical preparations, and membrane permeation. The choice of method affects the cost and energy consumption, with manifold oxygen supply being the most expensive due to the high pressure required for gasification.</p>
+
+
+
+<p>Regulations for medical liquid oxygen storage tanks in healthcare institutions stipulate that the volume of a single tank should not exceed 5m³, with a total volume limit of 20m³. The distance between adjacent tanks should be at least three times the diameter of the largest tank.</p>
+
+
+
+<h2 class="wp-block-heading">Vacuum Suction Supply</h2>
+
+
+
+<p>Vacuum suction technology has reduced the reliance on compressed air machines as the primary source of medical gas pollution. However, vacuum suction pumping stations, where hospital waste liquid and gas are concentrated, can be potential sources of infection. It is crucial to locate these stations in relatively independent areas and ensure proper waste liquid collection and treatment.</p>
+
+
+
+<h2 class="wp-block-heading">Compressed Air Supply</h2>
+
+
+
+<p>The quality of compressed air in hospitals is vital for patient treatment. Various air compressors are available, with sliding vane air compressors being popular for their quiet operation and low cost. Ensuring the quality of compressed air involves controlling air supply and exhaust to maintain slight positive pressure in the compressor room and interlocking the compressor with air supply and exhaust fans.</p>
+
+
+
+<h2 class="wp-block-heading">Medical Gas Supply in the Operating Department</h2>
+
+
+
+<p>The operating department requires a reliable supply of various medical gases, including N2O, carbon dioxide, nitrogen, helium, and anesthesia waste gas collection. It is recommended to set the gas manifold in or near the central operating department for convenient management and oxygen supply.</p>
+
+
+
+<h2 class="wp-block-heading">Medical Gas Supply Pipeline</h2>
+
+
+
+<p>The pipeline for medical gas supply should be made of materials like seamless copper pipes and meet specific safety and installation standards. The layout should be flexible, especially for oxygen pipelines, to prevent accumulation and concentration of oxygen, which can be hazardous.</p>
+
+
+
+<h2 class="wp-block-heading">Medical Gas User Terminal Safety</h2>
+
+
+
+<p>The setting of hospital medical gas terminals should ensure safety, reliability, visibility, and aesthetics. Preventing wrong connections, ensuring reliable dosage, and making the terminals easily identifiable are key principles.</p>
+
+
+
+<h2 class="wp-block-heading">Medical Gas Operation Management and Monitoring</h2>
+
+
+
+<p>Efficient operation management and monitoring of medical gas involve classifying oxygen supply, managing compression processes, and monitoring vacuum situations. Energy-saving measures, such as adopting frequency conversion technology and selecting energy-saving products, can help reduce costs and environmental impact.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>The operation and management of medical gas engineering require attention to safety, efficiency, and cost-effectiveness. Hospitals should adopt best practices in supply diversification, vacuum suction, compressed air supply, and monitoring to ensure the optimal use of medical gases for patient care.</p><p>The post <a href="/es/key-points-of-medical-gas-engineering-operation-and-management/">Key Points of Medical Gas Engineering Operation and Management</a> appeared first on <a href="/es">PNEUMOTRONICS</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
